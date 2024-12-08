@@ -5,7 +5,7 @@ import AnimatedLines from "./AnimatedLines.jsx";
 
 const HeroV3 = () => {
   return (
-    <section className="min-h-screen relative overflow-hidden bg-[#0A0A0A] pt-16 md:pt-0">
+    <section className="min-h-screen relative overflow-hidden bg-[#0A0A0A] pt-24 md:pt-0">
       {/* Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-blue-500/10 via-transparent to-purple-500/10 opacity-60" />
 
