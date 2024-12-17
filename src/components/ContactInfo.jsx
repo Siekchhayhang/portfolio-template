@@ -26,8 +26,8 @@ const ContactInfo = () => {
               </svg>
             }
             title="Email"
-            value="contact@example.com"
-            link="mailto:contact@example.com"
+            value="chhayhangs@gmail.com"
+            link="mailto:chhayhangs@gmail.com"
           />
           <ContactCard
             icon={
@@ -46,8 +46,8 @@ const ContactInfo = () => {
               </svg>
             }
             title="Phone"
-            value="+855 12 345 678"
-            link="tel:+85512345678"
+            value="+855 15 366 377"
+            link="tel:+85515366377"
           />
           <ContactCard
             icon={

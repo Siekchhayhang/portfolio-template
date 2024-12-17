@@ -1,14 +1,12 @@
 import { useEffect } from "react";
-import Hero from "./components/Hero";
 import About from "./components/About";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
 import CustomCursor from "./components/CustomCursor";
-import AnimatedLines from "./components/AnimatedLines";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
 import HeroV3 from "./components/HeroV3.jsx";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
 
 function App() {
   // Smooth scroll behavior

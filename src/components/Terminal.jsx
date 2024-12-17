@@ -8,7 +8,7 @@ const Terminal = () => {
       animate={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.8, delay: 0.5 }}
     >
-      <motion.div 
+      <motion.div
         className="bg-[#1E1E1E] rounded-lg overflow-hidden shadow-2xl border border-gray-800"
         whileHover={{ scale: 1.02 }}
         transition={{ duration: 0.2 }}
@@ -37,7 +37,7 @@ const Terminal = () => {
             <br />
             <div className="pl-4">
               <span className="text-[#9CDCFE]">name</span>:{" "}
-              <span className="text-[#CE9178]">'Thorn Chorn'</span>,
+              <span className="text-[#CE9178]">'Siek Chhaihang'</span>,
               <br />
               <span className="text-[#9CDCFE]">role</span>:{" "}
               <span className="text-[#CE9178]">'Software Developer'</span>,

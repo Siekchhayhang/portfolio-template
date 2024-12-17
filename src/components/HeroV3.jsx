@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profileImage from "../assets/thorn_profile.jpg";
+import profileImage from "../assets/chhaihang_profile.jpg";
 import Typewriter from "typewriter-effect";
 import AnimatedLines from "./AnimatedLines.jsx";
 
@@ -48,9 +48,9 @@ const HeroV3 = () => {
                 className="space-y-3 sm:space-y-4"
               >
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight">
-                  Hi, I'm{" "}
+                  Hi, I&apos;m{" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
-                    Thorn Chorn
+                    Siek Chhaihang
                   </span>
                 </h1>
                 <div className="text-xl sm:text-2xl text-blue-300 h-12">
@@ -154,7 +154,7 @@ const HeroV3 = () => {
                   <div className="relative aspect-[4/5] rounded-lg overflow-hidden bg-gray-900">
                     <img
                       src={profileImage}
-                      alt="Thorn Chorn"
+                      alt="Siek Chhaihang"
                       className="w-full h-full object-cover"
                       loading="eager"
                     />

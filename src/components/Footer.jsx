@@ -22,7 +22,7 @@ const Footer = () => {
             {/* Center Content */}
             <div className="flex flex-wrap items-center justify-center gap-2 text-gray-300 text-sm order-3 sm:order-none text-center">
               <span className="inline-flex items-center gap-1">
-                Built with
+                Copy and Paste with
                 <span className="inline-block">
                   <motion.svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -44,13 +44,13 @@ const Footer = () => {
                 by
               </span>
               <motion.a
-                href="https://github.com/chornthorn"
+                href="https://https://github.com/Siekchhayhang"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors duration-300 relative group"
                 whileHover={{ y: -2 }}
               >
-                Thorn Chorn
+                Siek Chhaihang
               </motion.a>
               <span className="text-gray-400">
                 © {new Date().getFullYear()}
@@ -59,7 +59,7 @@ const Footer = () => {
 
             {/* GitHub Link */}
             <motion.a
-              href="https://github.com/chornthorn/portfolio-template"
+              href="https://github.com/Siekchhayhang/portfolio-template"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-gray-300 hover:text-white transition-colors duration-300 group order-2 sm:order-none"
