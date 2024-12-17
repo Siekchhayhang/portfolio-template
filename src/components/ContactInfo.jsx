@@ -119,7 +119,7 @@ const ContactInfo = () => {
           <h4 className="text-white mb-4">Follow Me</h4>
           <div className="flex space-x-4">
             <SocialLink
-              href="https://github.com/your-github"
+              href="https://github.com/Siekchhayhang"
               icon={
                 <svg
                   className="w-5 h-5"
@@ -135,7 +135,7 @@ const ContactInfo = () => {
               }
             />
             <SocialLink
-              href="https://linkedin.com/in/your-linkedin"
+              href="https://linkedin.com/in/Siekchhayhang"
               icon={
                 <svg
                   className="w-5 h-5"
@@ -147,7 +147,7 @@ const ContactInfo = () => {
               }
             />
             <SocialLink
-              href="https://twitter.com/your-twitter"
+              href="https://twitter.com/Siekchhayhang"
               icon={
                 <svg
                   className="w-5 h-5"
