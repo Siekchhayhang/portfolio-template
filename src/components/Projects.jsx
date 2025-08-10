@@ -161,19 +161,24 @@ const Projects = () => {
       title: "E-Commerce Platform",
       description:
         "A full-stack e-commerce platform with real-time inventory management and secure payment processing.",
-      image: "https://via.placeholder.com/600x400",
+      image: "https://collection-shop.com",
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      liveUrl: "https://example.com",
+      liveUrl: "https://collection-shop.com",
       githubUrl: "https://github.com/example",
     },
     {
-      title: "Task Management App",
+      title: "Employee Tracking Web App",
       description:
-        "A collaborative task management application with real-time updates and team collaboration features.",
-      image: "https://via.placeholder.com/600x400",
-      technologies: ["Next.js", "TypeScript", "PostgreSQL", "Socket.io"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example",
+        "A collaborative employee tracking application with real-time updates and team collaboration features.",
+      image: "https://employee-diary-app.vercel.app",
+      technologies: [
+        "Python",
+        "Flask Framework",
+        "MongoDB",
+        "Vercel for Hosting",
+      ],
+      liveUrl: "https://employee-diary-app.vercel.app",
+      githubUrl: "https://github.com/Siekchhayhang/employee-diary-app",
     },
     {
       title: "AI Content Generator",
