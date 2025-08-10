@@ -161,7 +161,7 @@ const Projects = () => {
       title: "E-Commerce Platform",
       description:
         "A full-stack e-commerce platform with real-time inventory management and secure payment processing.",
-      image: "https://collection-shop.com",
+      image: <img src="../assets/web-app-manifest-512x512.png" />,
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
       liveUrl: "https://collection-shop.com",
       githubUrl: "https://github.com/example",
@@ -170,7 +170,7 @@ const Projects = () => {
       title: "Employee Tracking Web App",
       description:
         "A collaborative employee tracking application with real-time updates and team collaboration features.",
-      image: "https://employee-diary-app.vercel.app",
+      image: "https://via.placeholder.com/600x400",
       technologies: [
         "Python",
         "Flask Framework",
@@ -178,7 +178,7 @@ const Projects = () => {
         "Vercel for Hosting",
       ],
       liveUrl: "https://employee-diary-app.vercel.app",
-      githubUrl: "https://github.com/Siekchhayhang/employee-diary-app",
+      githubUrl: "https://github.com/example",
     },
     {
       title: "AI Content Generator",
